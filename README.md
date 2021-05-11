@@ -1,1 +1,1 @@
-# devops_class_demo
+# devops_class
